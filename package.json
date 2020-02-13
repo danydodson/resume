@@ -1,0 +1,20 @@
+{
+  "name": "resume",
+  "version": "0.0.0",
+  "description": "Personal resume",
+  "author": "Dany Dodson",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanyDodson/resume.git"
+  },
+  "homepage": "https://github.com/DanyDodson/resume",
+  "engines": {
+    "node": ">=12"
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-sass": "^4.0.2"
+  }
+}
